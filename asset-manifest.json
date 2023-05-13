@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whichOneIs/static/css/main.0fd71bef.css",
+    "main.js": "/whichOneIs/static/js/main.ec7d36ee.js",
+    "index.html": "/whichOneIs/index.html",
+    "main.0fd71bef.css.map": "/whichOneIs/static/css/main.0fd71bef.css.map",
+    "main.ec7d36ee.js.map": "/whichOneIs/static/js/main.ec7d36ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fd71bef.css",
+    "static/js/main.ec7d36ee.js"
+  ]
+}
